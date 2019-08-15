@@ -1,0 +1,6 @@
+echo "# l.r.e" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/sasso4ever/l.r.e.git
+git push -u origin master
